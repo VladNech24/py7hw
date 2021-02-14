@@ -13,6 +13,4 @@ for a in range(a):
         i.append(a)
     elif fizz%a and buzz%a:
         i.append("FB")
-    else:
-        print("hhhhhh")
 print (i)
