@@ -1,8 +1,8 @@
-#a = 3
-#if a > 2:
-#   print("H")
-#else:
-#   print("L")
+a = 3
+if a > 2:
+   print("H")
+else:
+   print("L")
 #   _____________________________
 
 #a = int(input("введите число:"))
